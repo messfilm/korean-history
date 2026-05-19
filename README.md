@@ -4,6 +4,8 @@
 
 중학생을 위한 한국사 통사 학습 사이트. GitHub Pages 배포용 정적 HTML 사이트.
 
+**만든이 · 문의:** [messfilm@gmail.com](mailto:messfilm@gmail.com)
+
 > 한 아버지가 자녀에게 물려주려고 만든 학습 자료입니다.
 > 사실의 정확성, 균형 잡힌 시각, 학습자의 호기심을 자극하는 깊이를 모두 갖추도록 만들고 있습니다.
 
@@ -93,3 +95,9 @@ korean-history/
 
 - 콘텐츠 — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (학습 자료 공유 목적)
 - 코드 — MIT
+
+## 문의
+
+오타·사실 오류·개선 제안은 언제든 환영합니다.
+
+📧 **[messfilm@gmail.com](mailto:messfilm@gmail.com)**
